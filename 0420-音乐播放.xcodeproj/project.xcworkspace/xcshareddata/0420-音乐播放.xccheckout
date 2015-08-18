@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F6DB8343-4E71-436E-A059-C07D16FD6E12</string>
+	<key>IDESourceControlProjectName</key>
+	<string>0420-音乐播放</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0065586A385036A9FA104394307A2DB130C5D6A0</key>
+		<string>https://github.com/zhangferry/yuanMP3.git</string>
+		<key>7CE2E9D383398486B9CC7DB77491DCE89ECC6F24</key>
+		<string>github.com:zhangferry/yuanMP3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>0420-音乐播放.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0065586A385036A9FA104394307A2DB130C5D6A0</key>
+		<string>../../..</string>
+		<key>7CE2E9D383398486B9CC7DB77491DCE89ECC6F24</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:zhangferry/yuanMP3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7CE2E9D383398486B9CC7DB77491DCE89ECC6F24</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0065586A385036A9FA104394307A2DB130C5D6A0</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7CE2E9D383398486B9CC7DB77491DCE89ECC6F24</string>
+			<key>IDESourceControlWCCName</key>
+			<string>yuanMP3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
